@@ -7,8 +7,12 @@ Construir e configurar uma topologia de rede utilizando o Cisco Packet Tracer, p
 ## Ferramenta utilizada
 
 - Cisco Packet Tracer
+  
+## Topologia do projeto
 
-## Topologia
+![Topologia da rede](topologia.png)
+
+## Componentes da topologia
 
 O projeto foi desenvolvido em grupo e utilizou:
 
